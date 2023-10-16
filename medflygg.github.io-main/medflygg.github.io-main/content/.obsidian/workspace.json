@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "df556c8695852595",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d641802c43a703c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b56f1d6e1cafde31",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9a9569aad2a7403",
+    "type": "split",
+    "children": [
+      {
+        "id": "4104e51299fb178b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8f22b67482674bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fc1b94091e80cb0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1cc48635d1a4f12d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6811c5d0c42109a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f64e5586c99ed765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bb0e99408d78b9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5e6010c0132cc2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "964d766961e02a46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0db4d2138e8d0896",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b56f1d6e1cafde31",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Концепт/Механ/Покупка вольеров.md",
+    "Концепт/Механ/Основные механики.md",
+    "лепестка ascension.md",
+    "Ascension points.md",
+    "Не монеты.md",
+    "Визуальный стиль.md",
+    "Валюты.md",
+    "Монеты.md",
+    "Признаки.md",
+    "Скрещивание.md",
+    "Правила прочтения документации.md",
+    "Коллекции зверей.md",
+    "Концепт/Механ/Существа/Звери.md"
+  ]
+}
