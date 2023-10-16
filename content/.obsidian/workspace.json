@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,17 +141,24 @@
   },
   "active": "b56f1d6e1cafde31",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
     "Untitled.canvas",
+    "Игровой цикл.md",
+    "Игровой цикл.drawio.png",
+    "Концепция.md",
+    "Валюты.md",
+    "Untitled.md",
+    "Визуальный стиль.md",
+    "Ascension.md",
+    "Ascension points.md",
+    "Скрещивание.md",
+    "Pasted image 20230921175946.png",
     "Концепт/Механ/Покупка вольеров.md",
     "Концепт/Механ/Основные механики.md",
     "лепестка ascension.md",
-    "Ascension points.md",
     "Не монеты.md",
-    "Визуальный стиль.md",
-    "Валюты.md",
     "Монеты.md",
     "Признаки.md",
-    "Скрещивание.md",
     "Правила прочтения документации.md",
     "Коллекции зверей.md",
     "Концепт/Механ/Существа/Звери.md"
