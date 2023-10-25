@@ -1,35 +1,76 @@
 {
   "main": {
-    "id": "df556c8695852595",
+    "id": "d3048eb3ce40e6b1",
     "type": "split",
     "children": [
       {
-        "id": "3d641802c43a703c",
+        "id": "9cf4fe3cef668560",
         "type": "tabs",
         "children": [
           {
-            "id": "b56f1d6e1cafde31",
+            "id": "ff7df8e4d2da5214",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Концепт/Механ/Выставка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ec9a7acbe6f1fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "020f2dce3b7b56bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Концепт/Механ/Валюты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97034b65f7995725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Концепция.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f9a9569aad2a7403",
+    "id": "664c912615c32efa",
     "type": "split",
     "children": [
       {
-        "id": "4104e51299fb178b",
+        "id": "29761e9aa971637e",
         "type": "tabs",
         "children": [
           {
-            "id": "f8f22b67482674bb",
+            "id": "dac3bdda74bf7af2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +80,7 @@
             }
           },
           {
-            "id": "2fc1b94091e80cb0",
+            "id": "d382ebe3a1238755",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,34 +95,34 @@
             }
           },
           {
-            "id": "1cc48635d1a4f12d",
+            "id": "f8da37637b3502c0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "6811c5d0c42109a3",
+    "id": "d9fb18bb8548e17f",
     "type": "split",
     "children": [
       {
-        "id": "f64e5586c99ed765",
+        "id": "006a76e0cb306e50",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb0e99408d78b9a",
+            "id": "05a808292bc4ac2b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Концепция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +134,19 @@
             }
           },
           {
-            "id": "b5e6010c0132cc2a",
+            "id": "c996cb4c54190cc6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Концепция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "964d766961e02a46",
+            "id": "d84659452f0539df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,11 +157,13 @@
             }
           },
           {
-            "id": "0db4d2138e8d0896",
+            "id": "0c9f8ba450f8936e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Концепция.md"
+              }
             }
           }
         ]
@@ -131,36 +175,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b56f1d6e1cafde31",
+  "active": "97034b65f7995725",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Игровой цикл.md",
-    "Игровой цикл.drawio.png",
-    "Концепция.md",
-    "Валюты.md",
-    "Untitled.md",
-    "Визуальный стиль.md",
-    "Ascension.md",
-    "Ascension points.md",
-    "Скрещивание.md",
-    "Pasted image 20230921175946.png",
-    "Концепт/Механ/Покупка вольеров.md",
-    "Концепт/Механ/Основные механики.md",
-    "лепестка ascension.md",
-    "Не монеты.md",
-    "Монеты.md",
-    "Признаки.md",
     "Правила прочтения документации.md",
-    "Коллекции зверей.md",
-    "Концепт/Механ/Существа/Звери.md"
+    "Признаки.md",
+    "Концепция.md",
+    "Игровой цикл.drawio.png",
+    "Визуальный стиль.md",
+    "Игровой цикл.md",
+    "Концепт/Основные механики.md",
+    "Концепт/Механ/Скрещивание.md",
+    "Концепт/Механ/Скрещивание зверей.md",
+    "Концепт/Механ/Кристаллы.md",
+    "Концепт/Механ/Коллекции зверей.md",
+    "Концепт/Механ/Кастомизация зоопарка.md",
+    "Концепт/Механ/Покупка вольеров.md",
+    "Концепт/Механ/Покупка зверей.md",
+    "Концепт/Механ/Работа меню существ.md",
+    "Концепт/Механ/Престиж.md",
+    "Концепт/Механ/Привлечение посетителей.md",
+    "Концепт/Механ/Рейтинг зоопарка.md",
+    "Концепт/Механ/Существа.md",
+    "Концепт/Механ/Звери.md",
+    "Концепт/Механ/Кастомизация вольеров.md",
+    "Концепт/Механ/Генерация зверей.md",
+    "Концепт/Механ/Генерация существ.md",
+    "Концепт/Механ/Мета/Года.md",
+    "Концепт/Механ/Мета/Геймификация.md",
+    "index.md",
+    "Pasted image 20230921175946.png",
+    "Схемы/Список схем.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Схемы/Существа",
+    "Без названия",
+    "Концепт/Механ/Мета",
+    "Концепт/Механ/Существа",
+    "Схемы/ScreenCreatureMenu.drawio.svg",
+    "Схемы",
+    "Концепт/Механ",
+    "Концепт"
   ]
 }
